@@ -4,6 +4,7 @@ layout: post
 author: john_doe
 date: '2019-03-19 10:07:32'
 categories: misc
+post: _layouts/blog.html
 ---
 ## news poster
 
